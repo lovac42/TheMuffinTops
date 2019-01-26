@@ -18,7 +18,7 @@ New materials add dynamics to your study. They make learning fun and interesting
 Is the jar full?  
 
 
-### Final Drill: Learning cards (Sands)
+### Final Drill Stage: Learning cards (Sands)
 Learning would be greatly enhanced if you go through final drill, you may even like doing them, but they are not as important. Learning cards are the sands in your learning jar.
 
 
@@ -37,7 +37,7 @@ As the name suggests, these two options skip the review for new and/or learning 
 
 
 ### Cut Drills
-Learning cards are converted to day-learning cards on the selected deck and subdecks. They will be postponed and load balanced across several days based on the user's choice. Any learning steps remain will resume when the card is due again. This is useful for leech cards at the end of your study.
+Learning cards are converted to day-learning cards on the selected deck and subdecks. They will be postponed and load balanced across several days based on the user's fuzz choice. Any learning steps remaining will resume when the card is due again. This is useful for leech cards at the end of your study.
 
 
 ### Drop Drills
@@ -47,11 +47,11 @@ Lapsed cards are converted to review cards, and new-learning cards are converted
 ### Randomize Drills
 All due learning cards are converted to day-learning cards due today. Because the learning queue is time sensitive, it can not be randomized. By converting learning cards to day-learning cards, we gain the benefit of shuffling the queue during review.
 
-This option is based on your "learn ahead limit", if you set this to 999, all learning cards will be affected.
+This option is based on your "learn ahead limit", if you set this to 999, all learning cards within that timespan will be affected.
 
 
 ### Skip final drill
-This option is in the preference menu. It is used to automatically skip all learning material at the end of each session. Learning cards are converted to day-learning cards with the due set to 1 day for new card and 2-4 days for review cards load balanced base on the ease factor. You should only turn this on in extreme cases such as during vacation. This ensures that all lapsed cards get at least one exposure.
+This option is in the preference menu. It is used to automatically skip all learning material at the end of each session. Learning cards are converted to day-learning cards with the due set to 1 day for new card and 2-4 days for review cards based on the ease factor. You should only turn this on in extreme cases such as during vacation. This ensures that all lapsed cards get at least one exposure.
 
 <img src="https://github.com/lovac42/TheMuffinTops/blob/master/screenshots/prefmenu.png?raw=true">
 
